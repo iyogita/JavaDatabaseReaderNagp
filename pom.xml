@@ -73,7 +73,7 @@
                         <goal>repackage</goal>
                     </goals>
                     <configuration>
-                        <mainClass>com.example.demo.SpringBootMysqlApplication</mainClass> <!-- Replace with your main application class -->
+                        <mainClass>com.example.demo.DemoApplication</mainClass> <!-- Replace with your main application class -->
                     </configuration>
                 </execution>
             </executions>
