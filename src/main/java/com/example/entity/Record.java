@@ -1,4 +1,4 @@
-package com.example.nagp;
+package com.example.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

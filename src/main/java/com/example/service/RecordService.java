@@ -1,7 +1,7 @@
-package com.example.nagp.service;
+package com.example.service;
 
-import com.example.nagp.entity.Record;
-import com.example.nagp.repository.RecordRepository;
+import com.example.entity.Record;
+import com.example.repository.RecordRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

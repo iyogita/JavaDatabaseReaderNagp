@@ -1,4 +1,4 @@
-package com.example.nagp;
+package com.example.respository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
