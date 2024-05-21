@@ -7,9 +7,7 @@
     <artifactId>nagp</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-
     <dependencies>
-       <dependencies>
     <dependency>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-web</artifactId>
@@ -27,8 +25,6 @@
         <artifactId>spring-boot-starter</artifactId>
     </dependency>
 </dependencies>
-    </dependencies>
-
     <build>
         <plugins>
             <!-- Your plugins here -->
