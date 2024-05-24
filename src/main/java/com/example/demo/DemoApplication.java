@@ -8,6 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableJpaRepositories
 public class DemoApplication {
     public static void main(String[] args) {
+        System.out.println("Welcome Yogita 3176076");
         SpringApplication.run(DemoApplication.class, args);
     }
 }
