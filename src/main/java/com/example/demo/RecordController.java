@@ -16,4 +16,5 @@ public class RecordController {
     public List<Record> getAllRecords() {
         return recordRepository.findAll();
     }
+    
 }
