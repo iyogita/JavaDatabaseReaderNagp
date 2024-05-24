@@ -1,5 +1,5 @@
 com\example\demo\DemoApplication.class
 com\example\demo\Record.class
 com\example\demo\RecordController.class
-com\example\demo\DatabaseConnector.class
 com\example\demo\RecordRepository.class
+com\example\demo\DatabaseConfig.class
