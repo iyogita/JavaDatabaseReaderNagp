@@ -17,4 +17,10 @@ public class RecordController {
         return recordRepository.findAll();
     }
 
+    //part of version 2
+    @GetMapping("/")
+    public String get() {
+        return "Welcome to kubernetes demo by Yogita !!!";
+    }
+
 }
