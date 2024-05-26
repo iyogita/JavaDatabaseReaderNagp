@@ -23,4 +23,18 @@ public class RecordController {
         return "Welcome to kubernetes demo by Yogita !!!";
     }
 
+    //part of version 3
+    @GetMapping("/fibonacci")
+    public void fibonacci() {
+        long result = fibonacci(100);
+    }
+
+    private long fibonacci(int n) {
+        if (n <= 1) {
+            return n;
+        }
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+
 }
+    
