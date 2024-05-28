@@ -16,9 +16,9 @@ The Java Database Reader (Nagp) is a Java-based application designed to read dat
 
 Api's :
 
-1. / :(Default Message)
-2. /records :(Fetch Records form DB)
-3. /fibonacci :(Run a fibonacci of n=100 to increase load)
+1. /  (Default Message)
+2. /records  (Fetch Records form DB)
+3. /fibonacci  (Run a fibonacci of n=100 to increase load)
 
 
 ## Getting Started
